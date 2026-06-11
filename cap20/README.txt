@@ -2,8 +2,7 @@
 Sistema de Gerenciamento de Tarefas - API REST
 ============================================
 
-Nome: Isabely aparecida gomes da costa
-RA: 2337541
+Nome:
 
 ============================================
 COMO EXECUTAR O PROJETO
