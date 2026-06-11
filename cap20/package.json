@@ -1,0 +1,16 @@
+{
+  "name": "cap20",
+  "version": "1.0.0",
+  "description": "Sistema de Gerenciamento de Tarefas - API REST",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": ["api", "rest", "express", "nodejs", "tasks"],
+  "author": "isabely ap gomes da costa",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
